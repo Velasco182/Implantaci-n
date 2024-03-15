@@ -1,0 +1,500 @@
+   19  git init
+   20  git status 
+   21  git clone https://github.com/Shiro0010/figures.git
+   22  git pull
+   23  git pull
+   24  git init
+   25  git status
+   26  git add .
+   27  git commit -m "Agrego clase Circulo"
+   28  git oull
+   29  git pull
+   30  git push -u origin main
+   31  git pull
+   32  git push -u origin main
+   33  git pull
+   34  git push 
+   35  git pull
+   36  git push 
+   37  git pull
+   38  git push 
+   39  git status 
+   40  git add .
+   41  git status 
+   42  git pull
+   43  git push 
+   44  git status 
+   45  git pull
+   46  git push 
+   47  git push -u origin main
+   48  git config user.name "325Mary"
+   49  git config user.email "mcordoba577@misena.edu.co"
+   50  git remote -vv
+   51  git remote set-url origin https://github.com/Shiro0010/figures.git 
+   52  git init
+   53  git status 
+   54  git pull
+   55  git push
+   56  git init
+   57  git status 
+   58  git add .
+   59  git status 
+   60  git pull
+   61  git push
+   62  git pull
+   63  git init
+   64  git status 
+   65  git pull
+   66  git init
+   67  git status 
+   68  git add .
+   69  git status 
+   70  git commit -m "Agrego clase Circulo"
+   71  git pull
+   72  git pull
+   73  git commit -m "Agrego clase Circulo"
+   74  git pull
+   75  git push
+   76  git merge --abort 
+   77  git pull
+   78  git merge --abort 
+   79  git push
+   80  git push -u origin main
+   81  git clone https://github.com/Shiro0010/figures.git
+   82  git clone https://github.com/Shiro0010/figures.git
+   83  git init
+   84  git init
+   85  git status
+   86  git status
+   87  git pull
+   88  git push -u origin main
+   89  git push -u origin main
+   90  git init
+   91  git status
+   92  git status
+   93  git add .
+   94  git status
+   95  git pull
+   96  git push 
+   97  git init
+   98  git clone https://github.com/Velasco182/BD_NSQL.git
+   99  git init
+  100  git add .
+  101  git commit -m "first commit"
+  102  git branch -M main
+  103  git remote add origin https://github.com/Velasco182/BD_NSQL.git
+  104  git push -u origin main
+  105  git add .
+  106  git commit -m "first commit"
+  107  git branch -M main
+  108  git remote add origin https://github.com/Velasco182/BD_NSQL.git
+  109  git push -u origin main
+  110  git clone https://github.com/andresmunozl/trabajoJson.git
+  111  git pull 
+  112  git add .
+  113  git commit -m "first commit"
+  114  git push -u origin main
+  115  git pull 
+  116  git add .
+  117  git commit -m "Rubén Velasco"
+  118  git push -u origin main
+  119  git pull origin main
+  120  git push -u origin main
+  121  git status
+  122  git pull origin main
+  123  git add .
+  124  git commit -m "Rubén Velasco"
+  125  git push -u origin main
+  126  git pull origin main
+  127  git push -u origin main
+  128  git add .
+  129  git commit -m "Rubén Velasco"
+  130  git add .
+  131  git push -u origin main
+  132  git commit -m "Rubén Velasco"
+  133  git push -u origin main
+  134  git pull origin main
+  135  git push -u origin main
+  136  git clone https://github.com/Velasco182/WEB-lll.git
+  137  git add .
+  138  git commit -m "Rubén Velasco"
+  139  git push -u origin main
+  140  git add .
+  141  git commit -m "Rubén Velasco"
+  142  git push -u origin main
+  143  git init
+  144  git pull
+  145  git init
+  146  gut pull
+  147  git pull
+  148  git init
+  149  git clone https://github.com/325Mary/Html.git
+  150  git init
+  151  clone https://github.com/325Mary/Html.git
+  152   git clone https://github.com/325Mary/Html.git
+  153  git clone https://github.com/325Mary/Html.git
+  154  git clone https://github.com/325Mary/Html.git
+  155  git init
+  156  git clone https://github.com/325Mary/Html.git
+  157  git clone https://github.com/325Mary/Html.git
+  158  git pull origin main
+  159  git add .
+  160  git commit -m "11-09-2023"
+  161  git push -u origin main
+  162  git clone https://github.com/325Mary/Html.git
+  163  git init
+  164  git pull
+  165  git init
+  166  git clone https://github.com/325Mary/LitteBox.git
+  167  git clone https://github.com/Velasco182/WEB-lll.git
+  168  git pull origin main
+  169  git init
+  170  git commit -m "first commit"
+  171  git branch -M main
+  172  git remote add origin https://github.com/Velasco182/Android-I.git
+  173  git push -u origin main
+  174  git add .
+  175  [200~git commit -m "first commit"
+  176  git branch -M main
+  177  git remote add origin https://github.com/Velasco182/Android-I.git
+  178  git push -u origin main
+  179  git push -u origin main
+  180  git add .
+  181  git commit -m "first commit"
+  182  git remote add origin https://github.com/Velasco182/Android-I.git
+  183  git push -u origin main
+  184  git add .
+  185  git commit -m "Prueba App"
+  186  git push -u origin main
+  187  git init
+  188  git pull
+  189  git init
+  190  git add .
+  191  git commit -m "first commit"
+  192  git branch -M main
+  193  git remote add origin https://github.com/Velasco182/WEB-III.git
+  194  git push -u origin main
+  195  git add .
+  196  git init
+  197  git add .
+  198  git commit -m "first commit"
+  199  git branch -M main
+  200  git remote add origin https://github.com/Velasco182/WEB-III.git
+  201  git push -u origin main
+  202  git pull origin main
+  203  git clone https://github.com/Velasco182/Android-I.git
+  204  git clone https://github.com/Velasco182/Android-I.git
+  205  git init
+  206  git commit -m "first commit"
+  207  git branch -M main
+  208  git remote add origin https://github.com/Velasco182/WEB-IV.git
+  209  git push -u origin main
+  210  git add .
+  211  git commit -m "first commit"
+  212  git branch -M main
+  213  git remote add origin https://github.com/Velasco182/WEB-IV.git
+  214  git push -u origin main
+  215  yarn
+  216  yarn
+  217  npm i yarn
+  218  yarn
+  219  yarn create vite
+  220  yarn create vite
+  221  npm i yarn
+  222  yarn create vite
+  223  git init
+  224  git add .
+  225  git status
+  226  git commit -m "primer commit"
+  227  git remote add origin https://github.com/325Mary/front.git
+  228  git oush origin master
+  229  git push origin master
+  230  git remote -v
+  231  git status
+  232  git add .
+  233  git commit -m "populate"
+  234  git status
+  235  git add .
+  236  git commit -m "populate"
+  237  git push origin master
+  238  git init
+  239  git remote -v
+  240  git pull
+  241  npm i
+  242  npm run dev
+  243  clear
+  244  npm run dev
+  245  clear
+  246  npm run dev
+  247  clear
+  248  npm run dev
+  249  npm run dev
+  250  clear
+  251  npm run dev
+  252  cler
+  253  clear
+  254  exit
+  255  npm i mongoose
+  256  exit
+  257  git init
+  258  git clone https://github.com/325Mary/BackendCine.git
+  259  cd BackendCine
+  260  code .
+  261  git pull
+  262  code .
+  263  git remote -v
+  264  git pull origin main
+  265  git clone https://github.com/325Mary/littlebox.git
+  266  git clone https://github.com/325Mary/littebox.git
+  267  git clone https://github.com/325Mary/BackendIniciarSesion.git
+  268  git clone https://github.com/325Mary/BackendIniciarSesión.git
+  269  git clone https://github.com/325Mary/front.git
+  270  git clone https://github.com/325Mary/frontendIniciarSesion.git
+  271  git clone https://github.com/325Mary/BackendIniciarSseión.git
+  272  git clone https://github.com/325Mary/BackendIniciarSesión.git
+  273  git clone https://github.com/325Mary/BackendIniciarSesion.git
+  274  git clone https://github.com/325Mary/BackendIniciarSesion
+  275  git clone https://github.com/325Mary/BackendIniciarSesion.git
+  276  git clone https://github.com/325Mary/BackendIniciarSesion
+  277  git clone https://github.com/325Mary/BackendIniciarSesion.git
+  278  git clone https://github.com/325Mary/BackendIniciarSesion.git
+  279  git clone https://github.com/325Mary/BackendIniciarSesion.git
+  280  git clone https://github.com/325Mary/BackendIniciarSesion.git
+  281  git clone https://github.com/325Mary/frontendIniciarSesion.git
+  282  git clone https://github.com/325Mary/BackendIniciarSesión.git
+  283  git clone https://github.com/325Mary/BackendIniciarSesion.git
+  284  git clone https://github.com/325Mary/BackendIniciarSesion.git
+  285  git pull
+  286  code .
+  287  git pull
+  288  git pull
+  289  code .
+  290  git pull
+  291  code .
+  292  git clone https://github.com/325Mary/frontendIniciarSesion.git
+  293  git pull origin main
+  294  git init
+  295  git init
+  296  [200~git commit -m "first commit"
+  297  git branch -M main
+  298  git remote add origin https://github.com/Velasco182/Android-II.git
+  299  git commit -m "first commit"
+  300  git add .
+  301  git commit -m "first commit"
+  302  git branch -M main
+  303  git remote add origin https://github.com/Velasco182/Android-II.git
+  304  git push -u origin main
+  305  git add .
+  306  git commit -m "Clases commit"
+  307  git push -u origin main
+  308  git add .
+  309  git commit -m "Maps commit"
+  310  git push -u origin main
+  311  git pull origin main
+  312  git pull origin main
+  313  git pull origin main
+  314  git clone https://github.com/Velasco182/Android-I
+  315  git init
+  316  git add .
+  317  git commit -m "first commit"
+  318  git branch -M main
+  319  git remote add origin https://github.com/Velasco182/inicioTutorConfiApp.git
+  320  git push -u origin main
+  321  git init
+  322  git add .
+  323  git commit -m "PROYECTO MÓVIL"
+  324  git remote add origin https://github.com/Velasco182/ConfiAppMovil.git
+  325  git push -u origin main
+  326  git remote add origin https://github.com/Velasco182/ConfiAppMovil.git
+  327  git push -u origin master 
+  328  git branch -M main
+  329  git commit -m "PROYECTO MÓVIL Rama Main"
+  330  git add .
+  331  git commit -m "PROYECTO MÓVIL Rama Main"
+  332  git push -u origin main 
+  333  git add .
+  334  git commit -m "PROYECTO MÓVIL FIREBASE"
+  335  git push -u origin main 
+  336  git checkout
+  337  git branch
+  338  git branch
+  339  git add .
+  340  git commit -m "PROYECTO MÓVIL FIREBASE"
+  341  git push -u origin main 
+  342  git push -u origin main 
+  343  git branch
+  344  git branch -a
+  345  git checkout Diego
+  346  git branch Diego
+  347  git branch -a
+  348  git checkout Diego
+  349  git add .
+  350  git commit -m "PROYECTO MÓVIL FIREBASE DIEGO"
+  351  git push -u origin Diego
+  352  git clone https://github.com/Velasco182/Android-II.git
+  353  git checkout Ruben
+  354  git branch
+  355  git clone https://github.com/Velasco182/ConfiAppMovil.git
+  356  git checkout Ruben
+  357  git pull origin Ruben
+  358  git pull origin main
+  359  git pull origin main
+  360  git clone https://github.com/Velasco182/Android-II.git
+  361  git pull origin main
+  362  cd Android-II/
+  363  git pull origin main
+  364  git pull origin mai
+  365  git add .
+  366  git commit -m "PokeService"
+  367  git push -u origin main
+  368  cd C:\vagrant_vms\ubuntu
+  369  cd C:\vagrant_vms\ubuntu
+  370  cd vagrant_vms\ubuntu
+  371  cd ..
+  372  cd ..
+  373  cd C:\vagrant_vms\ubuntu
+  374  cd \vagrant_vms\ubuntu
+  375  cd vagrant_vms\ubuntu
+  376  ls
+  377  nano vagrant_vms/ubuntu/Vagrantfile 
+  378  clear
+  379  cd vagrant_vms/ubuntu/ 
+  380  vagrant up
+  381  vagrant destroy
+  382  vagrant up
+  383  cd  /c/vagrant_vms/ubuntu
+  384  vagrant up
+  385  nano vagrant_vms/ubuntu/Vagrantfile 
+  386  ls
+  387  nano Vagrantfile 
+  388  nano Vagrantfile 
+  389  nano Vagrantfile 
+  390  vagrant up
+  391  nano Vagrantfile 
+  392  vagrant reload
+  393  nano Vagrantfile 
+  394  nano Vagrantfile 
+  395  vagrant reload
+  396  nano Vagrantfile 
+  397  nano Vagrantfile 
+  398  vagrant reload
+  399  nano Vagrantfile 
+  400  vagrant reload
+  401  nano Vagrantfile 
+  402  vagrant reload
+  403  nano Vagrantfile 
+  404  vagrant reload
+  405  nano Vagrantfile 
+  406  nano Vagrantfile 
+  407  vagrant reload
+  408  nano Vagrantfile 
+  409  vagrant reload
+  410  nano Vagrantfile 
+  411  vagrant reload
+  412  nano Vagrantfile 
+  413  vagrant reload
+  414  vagrant provision
+  415  nano Vagrantfile 
+  416  vagrant reload
+  417  vagrant provision
+  418  nano Vagrantfile 
+  419  vagrant reload
+  420  vagrant provision
+  421  nano Vagrantfile 
+  422  vagrant provision
+  423  nano Vagrantfile 
+  424  vagrant reload
+  425  nano Vagrantfile 
+  426  vagrant reload
+  427  ./ ls
+  428  . ls
+  429  ls ./
+  430  ls -la
+  431  ll
+  432  ls -la
+  433  nano Vagrantfile 
+  434  nano Vagrantfile 
+  435  vagrant reload
+  436  vgrant ssh
+  437  vagrant ssh
+  438  nano Vagrantfile 
+  439  vagrant ssh
+  440  nano Vagrantfile 
+  441  vagrant ssh
+  442  vagrant ssh
+  443  vagrant ssh
+  444  cd ..
+  445  cd wordpress/
+  446  nano Vagrantfile 
+  447  vagrant up
+  448  nano Vagrantfile 
+  449  vagrant up
+  450  nano Vagrantfile 
+  451  vagrant up
+  452  nano Vagrantfile 
+  453  vagrant up
+  454  nano Vagrantfile 
+  455  vagrant reload
+  456  nano Vagrantfile 
+  457  vagrant reload
+  458  nano Vagrantfile 
+  459  vagrant up
+  460  vagrant init ubuntu/trusty64
+  461  nano Vagrantfile 
+  462  vagrant up
+  463  vagrant reload
+  464  nano Vagrantfile 
+  465  vagrant reload
+  466  nano Vagrantfile 
+  467  vagrant reload
+  468  nano Vagrantfile 
+  469  vagrant destroy
+  470  vagrant init ubuntu/focal64
+  471  nano Vagrantfile 
+  472  vagrant up
+  473  git pull origin Ruben
+  474  git clone https://github.com/Velasco182/ConfiAppMovil.git
+  475  cd ConfiAppMovil/
+  476  git checkout Ruben
+  477  git pull origin Ruben
+  478  cd wordpress/
+  479  nano Vagrantfile 
+  480  cd ..
+  481  cd ubuntu/
+  482  vagrant up
+  483  vagrant ssh
+  484  cd wordpress/
+  485  vagrant up
+  486  vagrant reload
+  487  vagrant up
+  488  vagrant up
+  489  vagrant ssh
+  490  vagrant destroy
+  491  vagrant destroy
+  492  vagrant destroy
+  493  vagrant up
+  494  vagrant up
+  495  vagrant up
+  496  vagrant up
+  497  vagrant up
+  498  vagrant ssh
+  499  vagrant reload
+  500  vagrant reload
+  501  docker images
+  502  docker images ls -a
+  503  cd /d:
+  504  cd d
+  505  cd d:
+  506  cd /d
+  507  ls ll
+  508  ls la
+  509  ls -la
+  510  cd ADSO/
+  511  mkdir Docker
+  512  cd Docker
+  513  mkdir Ubuntu
+  514  cd Ubuntu
+  515  docker pull ubuntu
+  516  docker images
+  517  winpty docker run --name Test -it ubuntu bash
+  518  history >docker.txt
